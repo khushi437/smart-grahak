@@ -48,16 +48,13 @@ smart-grahak/
 ├── artisan
 ├── composer.json
 └── README.md
-
+```
 
 ## 📸 Screenshots
 
 Screenshots of the application can be added here.
 
 <img width="1366" height="768" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/8b4f3a8c-e6f5-4035-9c16-a60d6d12aacf" />
-
-
-
 <img width="1366" height="768" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/cbf98ba2-a4c3-4d8e-b755-15e6fdf98cb0" />
 <img width="1366" height="768" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/302a921c-69b3-4ca9-99fd-95d5f50eeeb3" />
 <img width="1366" height="768" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/1ca1d868-e4af-4cb7-a98c-81fbd15aaaae" />
